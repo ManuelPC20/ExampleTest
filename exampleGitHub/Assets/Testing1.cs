@@ -5,7 +5,7 @@ using UnityEngine;
 public class Testing1 : MonoBehaviour
 {
     public bool pepes;
-
+    public int speed;
     // Start is called before the first frame update
     void Start()
     {
